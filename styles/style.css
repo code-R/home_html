@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:url('fonts/icomoon.eot');
-  src:url('fonts/icomoon.eot') format('embedded-opentype'),
-    url('fonts/icomoon.woff') format('woff'),
-    url('fonts/icomoon.ttf') format('truetype'),
-    url('fonts/icomoon.svg') format('svg');
+  src:url('../fonts/icomoon.eot?mr8aaj');
+  src:url('../fonts/icomoon.eot?#iefixmr8aaj') format('embedded-opentype'),
+    url('../fonts/icomoon.woff?mr8aaj') format('woff'),
+    url('../fonts/icomoon.ttf?mr8aaj') format('truetype'),
+    url('../fonts/icomoon.svg?mr8aaj#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -65,9 +65,6 @@
 .icon-bubble:before {
   content: "\e60d";
 }
-.icon-user:before {
-  content: "\e60e";
-}
 .icon-user2:before {
   content: "\e60f";
 }
@@ -88,4 +85,37 @@
 }
 .icon-link:before {
   content: "\e615";
+}
+.icon-info:before {
+  content: "\e617";
+}
+.icon-info2:before {
+  content: "\e618";
+}
+.icon-strikethrough:before {
+  content: "\e619";
+}
+.icon-sigma:before {
+  content: "\e61a";
+}
+.icon-vimeo2:before {
+  content: "\e61b";
+}
+.icon-vimeo:before {
+  content: "\e61c";
+}
+.icon-IE:before {
+  content: "\e61d";
+}
+.icon-search:before {
+  content: "\e60e";
+}
+.icon-search2:before {
+  content: "\e616";
+}
+.icon-info3:before {
+  content: "\e61e";
+}
+.icon-info4:before {
+  content: "\e61f";
 }
