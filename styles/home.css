@@ -1,0 +1,43 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#masonry{
+  width: 90%;
+  margin-left: 70px;
+  margin-top: 50px;
+  /*margin: auto;*/
+}
+
+.item {
+  float: left;
+  /*background: #D092E3*/
+  /*border: 2px solid #333;*/
+  padding-top: 10px;
+  /*margin-left: 2px;*/
+}
+
+.title{
+  80%;
+}
+
+.title h1{
+  color: red;
+  font-family: "Arial",Arial,sans-serif;
+  font-weight: 100;
+  margin-bottom: -42px;
+  margin-left: 69px;
+}
+
+.title .sidebar{
+  float: right;
+  padding-right: 97px;
+}
+
+#sidebar {
+  position: absolute;
+  top:0; bottom:0; left:0;
+  width: 60px;
+  background: 'red';
+}
