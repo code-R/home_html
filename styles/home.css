@@ -28,19 +28,15 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-#masonry{
+#container{
   width: 90%;
   margin-left: 70px;
   margin-top: 50px;
-  /*margin: auto;*/
 }
 
 .item {
   float: left;
-  /*background: #D092E3*/
-  /*border: 2px solid #333;*/
   padding-top: 10px;
-  /*margin-left: 2px;*/
 }
 
 .title{
@@ -71,7 +67,6 @@
   position: absolute;
   top:0; bottom:0; left:0;
   width: 61px;
-  /*margin-top: 60px;*/
 }
 
 .e-icon{
